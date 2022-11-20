@@ -1,0 +1,15 @@
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\bin\Debug\net6.0\arrayPractice.exe
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\bin\Debug\net6.0\arrayPractice.deps.json
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\bin\Debug\net6.0\arrayPractice.runtimeconfig.json
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\bin\Debug\net6.0\arrayPractice.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\bin\Debug\net6.0\arrayPractice.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.csproj.AssemblyReference.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.AssemblyInfoInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.AssemblyInfo.cs
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\refint\arrayPractice.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\arrayPractice.genruntimeconfig.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\arrayPractice\obj\Debug\net6.0\ref\arrayPractice.dll

@@ -1,0 +1,15 @@
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\bin\Debug\net6.0\twoTriangles.exe
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\bin\Debug\net6.0\twoTriangles.deps.json
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\bin\Debug\net6.0\twoTriangles.runtimeconfig.json
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\bin\Debug\net6.0\twoTriangles.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\bin\Debug\net6.0\twoTriangles.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.csproj.AssemblyReference.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.AssemblyInfoInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.AssemblyInfo.cs
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\refint\twoTriangles.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\twoTriangles.genruntimeconfig.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\twoTriangles\obj\Debug\net6.0\ref\twoTriangles.dll
