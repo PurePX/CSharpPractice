@@ -1,0 +1,15 @@
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.csproj.AssemblyReference.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.AssemblyInfoInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.AssemblyInfo.cs
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\bin\Debug\net6.0\calcSwitch.exe
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\bin\Debug\net6.0\calcSwitch.deps.json
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\bin\Debug\net6.0\calcSwitch.runtimeconfig.json
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\bin\Debug\net6.0\calcSwitch.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\bin\Debug\net6.0\calcSwitch.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\refint\calcSwitch.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\calcSwitch.genruntimeconfig.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcSwitch\obj\Debug\net6.0\ref\calcSwitch.dll

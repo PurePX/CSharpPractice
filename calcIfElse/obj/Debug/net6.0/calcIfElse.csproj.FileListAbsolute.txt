@@ -1,0 +1,15 @@
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\bin\Debug\net6.0\calcIfElse.exe
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\bin\Debug\net6.0\calcIfElse.deps.json
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\bin\Debug\net6.0\calcIfElse.runtimeconfig.json
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\bin\Debug\net6.0\calcIfElse.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\bin\Debug\net6.0\calcIfElse.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.csproj.AssemblyReference.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.AssemblyInfoInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.AssemblyInfo.cs
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\refint\calcIfElse.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\calcIfElse.genruntimeconfig.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\calcIfElse\obj\Debug\net6.0\ref\calcIfElse.dll

@@ -12,7 +12,7 @@ namespace array_practice
         {
             int sum = 0;
             int min = 0;
-            Console.Write("vvedite kol-vo elementov in array: ");
+            Console.Write("enter elements count: ");
             int elementsCount = int.Parse(Console.ReadLine());
             int[] array = new int[elementsCount];
             for (int i = 0; i < elementsCount; i++)
@@ -20,7 +20,7 @@ namespace array_practice
                 Console.WriteLine("enter array element number " + i);
                 array[i] = int.Parse(Console.ReadLine());
             }               
-            Console.WriteLine("massiv naoborot:");
+            Console.WriteLine("array back to forth:");
             min = array[array.Length - 1];
             for (int i = array.Length - 1; i>= 0; i--)
             {
@@ -35,7 +35,7 @@ namespace array_practice
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("summa 43t ravno = " + sum);
+            Console.WriteLine("sum of even numbers = " + sum);
             Console.WriteLine("min array number = " + min);
             Console.ReadLine();
         }

@@ -1,0 +1,15 @@
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\bin\Debug\net6.0\odd_!oddNumsCount.exe
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\bin\Debug\net6.0\odd_!oddNumsCount.deps.json
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\bin\Debug\net6.0\odd_!oddNumsCount.runtimeconfig.json
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\bin\Debug\net6.0\odd_!oddNumsCount.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\bin\Debug\net6.0\odd_!oddNumsCount.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.csproj.AssemblyReference.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.AssemblyInfoInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.AssemblyInfo.cs
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\refint\odd_!oddNumsCount.dll
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.pdb
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\odd_!oddNumsCount.genruntimeconfig.cache
+C:\Users\Vitalii Repeev\Documents\C# practice\odd_!oddNumsCount\obj\Debug\net6.0\ref\odd_!oddNumsCount.dll

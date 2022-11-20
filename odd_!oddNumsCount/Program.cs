@@ -23,24 +23,24 @@ namespace odd__odd_nums_count
                 Console.Clear();
                 try
                 {
-                    Console.WriteLine("vvedite 1 4islo (int)");
+                    Console.WriteLine("enter first number (int)");
                     num1 = int.Parse(Console.ReadLine());
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("VVEDITE INT");
+                    Console.WriteLine("ERROR: please enter an integer");
                     Console.ReadLine();
                     continue;
                 }
 
                 try
                 {
-                    Console.WriteLine("vvedite 2 4islo (int)");
+                    Console.WriteLine("enter second number (int)");
                     num2 = int.Parse(Console.ReadLine());
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("VVEDITE INT");
+                    Console.WriteLine("ERROR: please enter an integer");
                     Console.ReadLine();
                     continue;
                 }

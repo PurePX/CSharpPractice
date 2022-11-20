@@ -10,7 +10,7 @@ namespace two_triangles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vvedite visoty triangle");
+            Console.WriteLine("Enter triangle height");
             int a = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < a; i++)

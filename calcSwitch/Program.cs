@@ -18,22 +18,22 @@ namespace Calc_switch
                 Console.Clear();
                 try
                 {
-                    Console.WriteLine("1vvedite 4islo");
+                    Console.WriteLine("Enter first number");
                     num1 = double.Parse(Console.ReadLine());
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Eto ne 4islo!!");
+                    Console.WriteLine("ERROR: Not a number");
                     Console.ReadLine();
                     continue;
                 }
                 do
                 {
-                    Console.WriteLine("2operaciya + - * /");
+                    Console.WriteLine("Which operation? + - * /");
                     action = Console.ReadLine();
                     if (action != "+" && action != "-" && action != "*" && action != "/")
                     {
-                        Console.WriteLine("3neizvestnoye deistviye");
+                        Console.WriteLine("Unknown operator");
                     }
                     else
                         break;
@@ -41,12 +41,12 @@ namespace Calc_switch
 
                 try
                 {
-                    Console.WriteLine("4vvedite vtoroye 4islo");
+                    Console.WriteLine("Enter second number");
                     num2 = double.Parse(Console.ReadLine());
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Eto ne 4islo!!");
+                    Console.WriteLine("ERROR: Not a number");
                     Console.ReadLine();
                     continue;
                 }
@@ -76,7 +76,7 @@ namespace Calc_switch
                         {
                             if (num2 == 0 && num1 != 0)
                             {
-                                Console.WriteLine("На ноль делить нельзя!");
+                                Console.WriteLine("ERROR: Division by zero");
                                 break;
                             }
                             else
@@ -88,7 +88,7 @@ namespace Calc_switch
                         }
                     default:
                         {
-                            Console.WriteLine("Неизвестное действие");
+                            Console.WriteLine("Unknown operator");
                             break;
                         }
                  
